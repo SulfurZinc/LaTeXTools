@@ -9,7 +9,6 @@ by Ian Bacher, Marciano Siniscalchi, and Richard Stein
 <https://latextools.readthedocs.io>
 
 *Latest revision:* v3.13.5 (2017-03-31).
-*Latest prerelease* v3.14.0-beta.0 (2017-03-31).
 
 [![Package Control](https://img.shields.io/packagecontrol/dm/LaTeXTools.svg?maxAge=2592000)](https://packagecontrol.io/packages/LaTeXTools)
 
@@ -21,10 +20,6 @@ by Ian Bacher, Marciano Siniscalchi, and Richard Stein
 - Uses analysis for ref / cite commands and better caching
 - Improved fill all completions for large files
 - %!TEX directives now override settings in all circumstances
-
-*Prerelease features*:
-
-- ...
 
 ## Prereleases
 
